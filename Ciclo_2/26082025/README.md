@@ -1,9 +1,5 @@
 # NF2 – Aplicação de Clusterização em Servidores Virtuais
 
-Professor: Me. Luis Vinicius
-Disciplina: Sistemas de Informação
-Objetivo: Guia rápido para configurar, testar e explorar clusters virtuais com Mininet e MPI.
-
 --------------------------------------------------------
 1. Preparando o Ambiente
 

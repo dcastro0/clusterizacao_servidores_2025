@@ -15,7 +15,7 @@ O objetivo é criar uma rede com a seguinte estrutura:
 
 Abaixo está uma representação visual da rede, conforme solicitado.
 
-![Diagrama da Topologia Tree](diagrama_tree.png)
+![Diagrama da Topologia Tree](diagram_tree.png)
 
 *(Nota: Este código assume que existe uma imagem chamada `diagrama_tree.png` no mesmo diretório. Uma forma de gerar este diagrama é descrita no final deste documento.)*
 
